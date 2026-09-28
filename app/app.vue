@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <h1>Fellipe Mayan - Portfólio v6</h1>
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>

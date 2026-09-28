@@ -1,0 +1,11 @@
+{
+  "header": {
+    "available": "Disponível para projetos",
+    "toggleTheme": "Alternar tema"
+  },
+  "nav": {
+    "projects": "PROJETOS",
+    "about": "SOBRE",
+    "contact": "CONTATO"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "header": {
+    "available": "Available for work",
+    "toggleTheme": "Toggle theme"
+  },
+  "nav": {
+    "projects": "PROJECTS",
+    "about": "ABOUT",
+    "contact": "CONTACT"
+  }
+}
