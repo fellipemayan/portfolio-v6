@@ -16,6 +16,7 @@
     "@nuxtjs/i18n": "^10.6.0",
     "@nuxtjs/sanity": "^2.5.0",
     "@pinia/nuxt": "^1.0.2",
+    "@portabletext/vue": "^2.0.0",
     "eslint": "^10.11.0",
     "motion-v": "^2.5.1",
     "nuxt": "^4.5.2",

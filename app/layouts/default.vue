@@ -8,5 +8,6 @@ import HeaderComponent from '~/components/Header/headerComponent.vue';
     <main>
       <slot />
     </main>
+    <FooterComponent />
   </div>
 </template>
